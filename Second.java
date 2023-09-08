@@ -1,6 +1,6 @@
 import java.util.*;
 class A{
 	public static void main(String args[]){
-		System.out.println("Second for clone");
+		System.out.println("Second for clone after pull");
 	}
 }
